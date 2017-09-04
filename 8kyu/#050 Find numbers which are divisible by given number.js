@@ -1,0 +1,1 @@
+const divisibleBy = (n,d) => n.filter( x => x%d === 0);

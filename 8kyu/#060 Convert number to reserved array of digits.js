@@ -1,0 +1,1 @@
+const digitize = a => String(a).split('').reverse().map(Number);

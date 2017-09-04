@@ -1,0 +1,1 @@
+const betterThanAverage = (c, y) => c.reduce((p,n) => p+n)/c.length < y;

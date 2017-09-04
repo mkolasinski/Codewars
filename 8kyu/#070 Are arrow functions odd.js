@@ -1,0 +1,1 @@
+const odds = (value) => value.filter(value => value%2 !== 0);

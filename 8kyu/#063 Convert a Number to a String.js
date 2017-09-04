@@ -1,0 +1,1 @@
+const numberToString = n => String(n);
