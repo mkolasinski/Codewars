@@ -1,0 +1,1 @@
+const OrderPeople = people => people.sort((person1,person2) => person1.age - person2.age);
