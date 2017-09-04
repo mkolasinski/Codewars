@@ -1,0 +1,1 @@
+const isOdd = n => parseInt(n) === n && n%2 !==0;
