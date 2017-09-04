@@ -1,0 +1,1 @@
+const mystery = () => new Object({ sanity: 'Hello' });

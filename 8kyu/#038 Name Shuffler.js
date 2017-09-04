@@ -1,0 +1,1 @@
+let nameShuffler = str => `${str.split(" ")[1]} ${str.split(" ")[0]}`;

@@ -1,0 +1,1 @@
+const nthChar = words => words.map((a,i) => a[i]).join('');

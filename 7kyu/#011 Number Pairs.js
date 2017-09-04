@@ -1,0 +1,1 @@
+const getLargerNumbers = (array1, array2) => array1.map((other,i) => Math.max(other,array2[i]));
