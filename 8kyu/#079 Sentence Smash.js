@@ -1,0 +1,1 @@
+const smash = letter => letter.join(' ');
