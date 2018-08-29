@@ -1,5 +1,4 @@
-﻿
-public class FirstClass
+﻿public class FirstClass
 {
     public static byte sum(byte a, byte b)
     {
@@ -7,4 +6,3 @@ public class FirstClass
         return c;
     }
 }
-
